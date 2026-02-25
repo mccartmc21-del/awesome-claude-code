@@ -24,6 +24,8 @@ marketplace/
 
 coverage.xml
 
+obsidian_export/
+
 !.claude/
 .claude/*
 !.claude/commands/
